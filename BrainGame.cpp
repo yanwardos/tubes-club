@@ -1,13 +1,15 @@
 #include<iostream>
 using namespace std;
 
-
+//Manifest untuk Level
 struct manifestLevel{
 	int intervalRandomPertanyaan;
 	int jumlahJackpotPerLevel;
 	int xTiapPertanyaan;
 };
 
+
+//Manifest untuk Mode <easy, medium, hard>
 struct manifestMode{
 	int jumlahKarakter;
 	char daftarKarakter[];
