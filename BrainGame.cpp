@@ -8,7 +8,7 @@ struct manifestLevel{
 	int xTiapPertanyaan;
 };
 
-
+//Yanwardo Sitanggang
 //Manifest untuk Mode <easy, medium, hard>
 struct manifestMode{
 	int jumlahKarakter;
@@ -17,9 +17,6 @@ struct manifestMode{
 	int waktuJawab;
 	int nyawa;
 };
-
-
-
 
 
 
