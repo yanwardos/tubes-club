@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------------------------
+-OOOOOO----OOOOOOO------OOOOO----OOOO--OOO-----OO
+-OO---OO---OO----OO---OO-----OO---OO---OOOO----OO
+-OO----OO--OO-----OO--OO-----OO---OO---OO-OO---OO
+-OOOOOO----OO----OO---OOOOOOOOO---OO---OO--OO--OO
+-OO----OO--OOOOOOO----OO-----OO---OO---OO---OO-OO
+-OO----OO--OO----OO---OO-----OO---OO---OO----OOOO
+-OOOOOOO---OO-----OO--OO-----OO--OOOO--OO-----OOO
+------------------------------------------------
